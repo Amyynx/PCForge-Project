@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" fill="none">
+  <rect width="320" height="200" rx="16" fill="#0F172A"/>
+  <rect x="65" y="40" width="190" height="120" rx="12" fill="#1E293B" stroke="#EF4444" stroke-width="3"/>
+  <circle cx="130" cy="100" r="40" fill="#0F172A" stroke="#F87171" stroke-width="2.5"/>
+  <circle cx="130" cy="100" r="14" fill="#EF4444"/>
+  <rect x="190" y="65" width="45" height="25" rx="4" fill="#F59E0B"/>
+  <text x="212" y="82" text-anchor="middle" fill="#0F172A" font-family="sans-serif" font-weight="bold" font-size="12">80+ GOLD</text>
+  <path d="M190 110h45M190 125h35" stroke="#94A3B8" stroke-width="4" stroke-linecap="round"/>
+</svg>

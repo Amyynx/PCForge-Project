@@ -1,0 +1,1357 @@
+[
+  {
+    "id": "cpu-intel-i3-12100f",
+    "nom": "Intel Core i3-12100F (4 Cœurs / 8 Threads)",
+    "categorie": "Processeur",
+    "marque": "Intel",
+    "gamme": "Entrée de gamme",
+    "prixTND": 329,
+    "prixEUR": 89,
+    "prixUSD": 95,
+    "scorePerformance": 54,
+    "consommationW": 58,
+    "boutiquesTN": "Tunisianet, MyTek, Wiki",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1555617778-02518510b9fa?auto=format&fit=crop&w=700&q=80",
+    "resume": "Processeur économique idéal pour un premier PC étudiant ou bureautique avancée et eSport.",
+    "specifications": [
+      "Architecture : Alder Lake (Socket LGA1700)",
+      "Fréquence Boost : jusqu'à 4.3 GHz",
+      "Cache : 12 Mo Intel Smart Cache",
+      "TDP : 58 Watts (Ventirad inclus)"
+    ],
+    "pointsForts": [
+      "Prix imbattable en Tunisie sous la barre des 350 DT",
+      "Supporte le PCIe 4.0 et la DDR4/DDR5",
+      "Très fluide sur Valorant, CS2 et League of Legends"
+    ],
+    "conseilMarcheTN": "Idéal pour monter un PC complet à moins de 1800 DT."
+  },
+  {
+    "id": "cpu-ryzen-5-5500",
+    "nom": "AMD Ryzen 5 5500 (6 Cœurs / 12 Threads)",
+    "categorie": "Processeur",
+    "marque": "AMD",
+    "gamme": "Entrée de gamme",
+    "prixTND": 379,
+    "prixEUR": 99,
+    "prixUSD": 105,
+    "scorePerformance": 58,
+    "consommationW": 65,
+    "boutiquesTN": "MyTek, SBS Informatique, Tunisianet",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=700&q=80",
+    "resume": "Le 6 cœurs le moins cher de Tunisie pour débuter en gaming et programmation à petit budget.",
+    "specifications": [
+      "Architecture : Zen 3 (Socket AM4)",
+      "Fréquence : 3.6 GHz (Boost 4.2 GHz)",
+      "Cache L3 : 16 Mo",
+      "TDP : 65 Watts (Ventirad Wraith Stealth inclus)"
+    ],
+    "pointsForts": [
+      "6 vrais cœurs à moins de 380 DT",
+      "Chauffe très peu et consomme seulement 65W",
+      "Compatible avec toutes les cartes mères B450 et B550"
+    ],
+    "conseilMarcheTN": "Excellent choix si votre budget ne permet pas de passer au Ryzen 5 5600."
+  },
+  {
+    "id": "cpu-ryzen-5-5600",
+    "nom": "AMD Ryzen 5 5600 (6 Cœurs / 12 Threads)",
+    "categorie": "Processeur",
+    "marque": "AMD",
+    "gamme": "Entrée de gamme",
+    "prixTND": 469,
+    "prixEUR": 129,
+    "prixUSD": 139,
+    "scorePerformance": 65,
+    "consommationW": 65,
+    "boutiquesTN": "MyTek, Tunisianet, SBS Informatique",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=700&q=80",
+    "resume": "Le meilleur rapport qualité/prix en Tunisie pour une configuration gaming 1080p et programmation.",
+    "specifications": [
+      "Architecture : Zen 3 (Socket AM4 - PCIe 4.0)",
+      "Fréquence : 3.5 GHz (Boost jusqu'à 4.4 GHz)",
+      "Cache L3 : 32 Mo",
+      "TDP : 65 Watts (Ventirad Wraith Stealth inclus)"
+    ],
+    "pointsForts": [
+      "32 Mo de cache L3 qui boostent les FPS en jeu",
+      "Chauffe très peu (65W)",
+      "Excellent en multitâche étudiant et gaming 1080p"
+    ],
+    "conseilMarcheTN": "Souvent disponible en pack avec une carte mère B550 chez les revendeurs à Tunis."
+  },
+  {
+    "id": "cpu-intel-i5-12400f",
+    "nom": "Intel Core i5-12400F (6 Cœurs / 12 Threads)",
+    "categorie": "Processeur",
+    "marque": "Intel",
+    "gamme": "Milieu de gamme",
+    "prixTND": 539,
+    "prixEUR": 145,
+    "prixUSD": 149,
+    "scorePerformance": 69,
+    "consommationW": 65,
+    "boutiquesTN": "Tunisianet, MyTek, MegaPC",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=700&q=80",
+    "resume": "Valeur sûre Intel très stable pour le jeu en 1080p et le développement web.",
+    "specifications": [
+      "Architecture : Alder Lake (Socket LGA1700)",
+      "Fréquence Boost : jusqu'à 4.4 GHz",
+      "Cache : 18 Mo Intel Smart Cache",
+      "TDP : 65 Watts"
+    ],
+    "pointsForts": [
+      "Performances en jeu égales au Ryzen 5 5600X",
+      "Évolutif vers les Core i5/i7 de 13e et 14e génération",
+      "Consommation très raisonnable"
+    ],
+    "conseilMarcheTN": "À associer avec une carte mère B760M DDR4 pour un coût maîtrisé."
+  },
+  {
+    "id": "cpu-intel-i5-13400f",
+    "nom": "Intel Core i5-13400F (10 Cœurs / 16 Threads)",
+    "categorie": "Processeur",
+    "marque": "Intel",
+    "gamme": "Milieu de gamme",
+    "prixTND": 725,
+    "prixEUR": 195,
+    "prixUSD": 209,
+    "scorePerformance": 76,
+    "consommationW": 95,
+    "boutiquesTN": "MyTek, Scoop Gaming, Tunisianet",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=700&q=80",
+    "resume": "Processeur polyvalent 10 cœurs hybrides idéal pour le gaming 1080p/1440p, les machines virtuelles et le montage.",
+    "specifications": [
+      "Architecture : Raptor Lake (6 P-Cores + 4 E-Cores)",
+      "Fréquence Boost : jusqu'à 4.6 GHz",
+      "Compatibilité RAM : DDR4 et DDR5 (Socket LGA1700)",
+      "Cache : 20 Mo Intel Smart Cache"
+    ],
+    "pointsForts": [
+      "Compatible DDR4 pour économiser sur le budget en Tunisie",
+      "10 cœurs très efficaces pour le développement logiciel",
+      "Performances stables dans tous les jeux récents"
+    ],
+    "conseilMarcheTN": "Le choix n°1 des configurations milieu de gamme en Tunisie."
+  },
+  {
+    "id": "cpu-ryzen-5-7600x",
+    "nom": "AMD Ryzen 5 7600X (6 Cœurs / 12 Threads AM5)",
+    "categorie": "Processeur",
+    "marque": "AMD",
+    "gamme": "Milieu de gamme",
+    "prixTND": 865,
+    "prixEUR": 225,
+    "prixUSD": 239,
+    "scorePerformance": 83,
+    "consommationW": 105,
+    "boutiquesTN": "SBS Informatique, MegaPC, MyTek",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=80",
+    "resume": "Entrée royale dans la plateforme AM5 DDR5 avec des fréquences atteignant 5.3 GHz en jeu.",
+    "specifications": [
+      "Architecture : Zen 4 (5nm - Socket AM5)",
+      "Fréquence : 4.7 GHz (Boost 5.3 GHz)",
+      "Cache L3 : 32 Mo",
+      "Mémoire : DDR5 uniquement"
+    ],
+    "pointsForts": [
+      "Performances par cœur dignes des processeurs haut de gamme",
+      "Plateforme AM5 évolutive sur plusieurs années",
+      "Puce graphique RDNA2 intégrée"
+    ],
+    "conseilMarcheTN": "Prévoir un ventirad 120mm dédié car il est livré sans refroidisseur."
+  },
+  {
+    "id": "cpu-intel-i5-14600kf",
+    "nom": "Intel Core i5-14600KF (14 Cœurs / 20 Threads)",
+    "categorie": "Processeur",
+    "marque": "Intel",
+    "gamme": "Haut de gamme",
+    "prixTND": 1150,
+    "prixEUR": 299,
+    "prixUSD": 309,
+    "scorePerformance": 89,
+    "consommationW": 150,
+    "boutiquesTN": "MegaPC, MyTek, Scoop Gaming",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=700&q=80",
+    "resume": "14 cœurs ultra rapides cadencés à 5.3 GHz pour le gaming 1440p haut niveau et la création.",
+    "specifications": [
+      "Architecture : Raptor Lake Refresh (6 P-Cores + 8 E-Cores)",
+      "Fréquence Turbo : 5.3 GHz",
+      "Cache L3 : 24 Mo",
+      "Socket : LGA1700 (DDR4 / DDR5)"
+    ],
+    "pointsForts": [
+      "Rapport puissance multicoeur / prix exceptionnel",
+      "Zéro limitation avec les cartes graphiques RTX 4070 / RX 7800 XT",
+      "Coefficient débloqué pour l'overclocking"
+    ],
+    "conseilMarcheTN": "Très prisé pour les stations de montage vidéo et gaming 2K."
+  },
+  {
+    "id": "cpu-intel-i7-14700k",
+    "nom": "Intel Core i7-14700K (20 Cœurs / 28 Threads)",
+    "categorie": "Processeur",
+    "marque": "Intel",
+    "gamme": "Haut de gamme",
+    "prixTND": 1590,
+    "prixEUR": 409,
+    "prixUSD": 429,
+    "scorePerformance": 94,
+    "consommationW": 190,
+    "boutiquesTN": "MegaPC, MyTek, Scoop Gaming",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=700&q=80",
+    "resume": "Puissance massive de 20 cœurs pour la compilation lourde, le rendu 3D, le streaming et le gaming intensif.",
+    "specifications": [
+      "Architecture : Raptor Lake Refresh (8 P-Cores + 12 E-Cores)",
+      "Fréquence Turbo : jusqu'à 5.6 GHz",
+      "Cache : 33 Mo Intel Smart Cache",
+      "Socket : LGA1700 (DDR4 / DDR5)"
+    ],
+    "pointsForts": [
+      "Productivité exceptionnelle en montage vidéo et 3D",
+      "20 cœurs pour faire tourner plusieurs conteneurs Docker et IDE",
+      "Fréquences très élevées en jeu"
+    ],
+    "conseilMarcheTN": "Nécessite un refroidissement liquide Watercooling AIO 240mm ou 360mm."
+  },
+  {
+    "id": "cpu-ryzen-7-7800x3d",
+    "nom": "AMD Ryzen 7 7800X3D (8 Cœurs 3D V-Cache)",
+    "categorie": "Processeur",
+    "marque": "AMD",
+    "gamme": "Haut de gamme",
+    "prixTND": 1690,
+    "prixEUR": 419,
+    "prixUSD": 449,
+    "scorePerformance": 98,
+    "consommationW": 120,
+    "boutiquesTN": "SBS Informatique, Wiki, MegaPC",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=700&q=80",
+    "resume": "La référence mondiale absolue pour le jeu vidéo grâce à ses 96 Mo de mémoire cache 3D V-Cache.",
+    "specifications": [
+      "Architecture : Zen 4 (Socket AM5 - DDR5 uniquement)",
+      "Fréquence Boost : jusqu'à 5.0 GHz",
+      "Cache L3 : 96 Mo 3D V-Cache",
+      "TDP : 120 Watts"
+    ],
+    "pointsForts": [
+      "Meilleur processeur gaming au monde",
+      "Efficacité énergétique remarquable face aux Core i9",
+      "Plateforme AM5 évolutive sur plusieurs années"
+    ],
+    "conseilMarcheTN": "Très recherché chez les revendeurs spécialisés gaming à Tunis."
+  },
+  {
+    "id": "cpu-ryzen-9-7950x3d",
+    "nom": "AMD Ryzen 9 7950X3D (16 Cœurs / 32 Threads)",
+    "categorie": "Processeur",
+    "marque": "AMD",
+    "gamme": "Haut de gamme",
+    "prixTND": 2490,
+    "prixEUR": 629,
+    "prixUSD": 649,
+    "scorePerformance": 100,
+    "consommationW": 140,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "cpu",
+    "photoUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=80",
+    "resume": "Le sommet absolu : 16 cœurs combinant la technologie 3D V-Cache pour le jeu et une puissance station de travail.",
+    "specifications": [
+      "Cœurs : 16 Cœurs / 32 Threads (Socket AM5)",
+      "Fréquence Boost : jusqu'à 5.7 GHz",
+      "Cache total : 144 Mo (L2 + L3 3D V-Cache)",
+      "TDP : 120-140 Watts"
+    ],
+    "pointsForts": [
+      "Aucune concession entre gaming 4K et calcul professionnel",
+      "Consomme moitié moins qu'un Core i9-14900K en jeu",
+      "32 threads pour l'IA, Unreal Engine 5 et la virtualisation"
+    ],
+    "conseilMarcheTN": "Le processeur ultime pour les stations de travail et configurations extrêmes."
+  },
+
+  {
+    "id": "gpu-gtx-1650-4gb",
+    "nom": "NVIDIA GeForce GTX 1650 4 Go GDDR6",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Entrée de gamme",
+    "prixTND": 540,
+    "prixEUR": 139,
+    "prixUSD": 149,
+    "scorePerformance": 44,
+    "consommationW": 75,
+    "boutiquesTN": "Tunisianet, MyTek, Wiki",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte graphique très économique de 75W pour jouer aux titres eSport (Valorant, LoL, CS2, GTA V).",
+    "specifications": [
+      "Mémoire vidéo : 4 Go GDDR6",
+      "Consommation : 75 Watts (alimentée par la carte mère)",
+      "Sorties : HDMI 2.0b, DisplayPort 1.4",
+      "Format : Compact double ventilateur"
+    ],
+    "pointsForts": [
+      "S'installe dans n'importe quel PC même avec une petite alimentation 400W",
+      "Le tarif le plus bas pour une carte NVIDIA neuve en Tunisie",
+      "Parfaite pour l'eSport et le montage léger"
+    ],
+    "conseilMarcheTN": "Idéale pour améliorer un PC de bureau existant sans changer l'alimentation."
+  },
+  {
+    "id": "gpu-rx-6600-8gb",
+    "nom": "AMD Radeon RX 6600 8 Go GDDR6",
+    "categorie": "Carte Graphique",
+    "marque": "AMD",
+    "gamme": "Entrée de gamme",
+    "prixTND": 860,
+    "prixEUR": 219,
+    "prixUSD": 229,
+    "scorePerformance": 62,
+    "consommationW": 132,
+    "boutiquesTN": "SBS Informatique, MyTek, MegaPC",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=700&q=80",
+    "resume": "La carte graphique reine des petits budgets pour faire tourner tous les jeux en 1080p Élevé sans se ruiner.",
+    "specifications": [
+      "Mémoire vidéo : 8 Go GDDR6",
+      "Architecture : AMD RDNA 2 (FSR 3 supporté)",
+      "Consommation : 132 Watts (1x connecteur 8 broches)",
+      "Sorties : 3x DisplayPort 1.4, 1x HDMI 2.1"
+    ],
+    "pointsForts": [
+      "Consomme seulement 132W (alimentation 500W suffisante)",
+      "Bien plus rapide que la RTX 3050 pour un prix inférieur en Tunisie",
+      "8 Go de VRAM adaptés au Full HD"
+    ],
+    "conseilMarcheTN": "Excellente alternative aux cartes NVIDIA d'entrée de gamme sur le marché local."
+  },
+  {
+    "id": "gpu-rtx-3060-12gb",
+    "nom": "NVIDIA GeForce RTX 3060 12 Go GDDR6",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Entrée de gamme",
+    "prixTND": 1120,
+    "prixEUR": 279,
+    "prixUSD": 289,
+    "scorePerformance": 68,
+    "consommationW": 170,
+    "boutiquesTN": "Tunisianet, MyTek, SBS Informatique",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=700&q=80",
+    "resume": "Dotée de 12 Go de VRAM, cette carte reste incontournable pour les étudiants en IA (LLM locaux) et le gaming 1080p.",
+    "specifications": [
+      "Mémoire vidéo : 12 Go GDDR6 (Bus 192-bit)",
+      "Cœurs CUDA : 3584",
+      "Technologies : DLSS, Ray Tracing, NVIDIA Broadcast",
+      "Consommation : 170 Watts"
+    ],
+    "pointsForts": [
+      "12 Go de VRAM précieux pour faire tourner des modèles IA et Stable Diffusion",
+      "Très grande stabilité des pilotes NVIDIA Studio",
+      "Toujours largement en stock en Tunisie"
+    ],
+    "conseilMarcheTN": "Privilégiez la version 12 Go et non la version 8 Go."
+  },
+  {
+    "id": "gpu-rtx-4060-8gb",
+    "nom": "NVIDIA GeForce RTX 4060 8 Go DLSS 3",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Milieu de gamme",
+    "prixTND": 1290,
+    "prixEUR": 319,
+    "prixUSD": 329,
+    "scorePerformance": 76,
+    "consommationW": 115,
+    "boutiquesTN": "Tunisianet, MyTek, Scoop Gaming, MegaPC",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=700&q=80",
+    "resume": "La carte graphique la plus populaire en Tunisie : ultra économe (115W), compatible DLSS 3 Frame Generation et CUDA.",
+    "specifications": [
+      "Mémoire vidéo : 8 Go GDDR6",
+      "Technologies : DLSS 3, Ray Tracing 3e Gén, NVIDIA Reflex",
+      "Cœurs CUDA : 3072 (idéal pour PyTorch / Blender)",
+      "Consommation : 115 Watts"
+    ],
+    "pointsForts": [
+      "Supporte le DLSS 3 et l'accélération IA (CUDA)",
+      "Très faible consommation électrique et chauffe réduite",
+      "Encodeur AV1 parfait pour le streaming"
+    ],
+    "conseilMarcheTN": "Très grande disponibilité en Tunisie avec des tarifs proches du prix international."
+  },
+  {
+    "id": "gpu-rx-7600-xt-16gb",
+    "nom": "AMD Radeon RX 7600 XT 16 Go GDDR6",
+    "categorie": "Carte Graphique",
+    "marque": "AMD",
+    "gamme": "Milieu de gamme",
+    "prixTND": 1450,
+    "prixEUR": 349,
+    "prixUSD": 359,
+    "scorePerformance": 78,
+    "consommationW": 190,
+    "boutiquesTN": "SBS Informatique, MyTek, MegaPC",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=700&q=80",
+    "resume": "La carte graphique 16 Go la plus accessible pour jouer en 1080p Ultra et 1440p avec textures maximales.",
+    "specifications": [
+      "Mémoire vidéo : 16 Go GDDR6",
+      "Architecture : AMD RDNA 3 (FSR 3 Fluid Motion Frames)",
+      "Consommation : 190 Watts",
+      "Encodage matériel : AV1"
+    ],
+    "pointsForts": [
+      "16 Go de mémoire vidéo à moins de 1500 DT",
+      "Idéale pour les jeux gourmands en VRAM comme Hogwarts Legacy et The Last of Us",
+      "Technologie HYPR-RX intégrée dans les pilotes AMD"
+    ],
+    "conseilMarcheTN": "Très bon compromis pour ceux qui veulent 16 Go de VRAM à budget moyen."
+  },
+  {
+    "id": "gpu-rtx-4060-ti-16gb",
+    "nom": "NVIDIA GeForce RTX 4060 Ti 16 Go GDDR6",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Milieu de gamme",
+    "prixTND": 1790,
+    "prixEUR": 449,
+    "prixUSD": 469,
+    "scorePerformance": 83,
+    "consommationW": 165,
+    "boutiquesTN": "MyTek, MegaPC, Scoop Gaming",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=700&q=80",
+    "resume": "Version 16 Go taillée pour le gaming 1440p élevé, les textures haute définition et le Deep Learning.",
+    "specifications": [
+      "Mémoire vidéo : 16 Go GDDR6",
+      "Cœurs CUDA : 4352",
+      "Architecture : Ada Lovelace (DLSS 3.5)",
+      "Consommation : 165 Watts"
+    ],
+    "pointsForts": [
+      "16 Go de mémoire vidéo NVIDIA à consommation réduite",
+      "Excellente en 1440p avec DLSS Quality",
+      "Parfaite pour les projets de fin d'études en Intelligence Artificielle"
+    ],
+    "conseilMarcheTN": "Une excellente option intermédiaire avant la RTX 4070 Super."
+  },
+  {
+    "id": "gpu-rx-7800-xt-16gb",
+    "nom": "AMD Radeon RX 7800 XT 16 Go GDDR6",
+    "categorie": "Carte Graphique",
+    "marque": "AMD",
+    "gamme": "Haut de gamme",
+    "prixTND": 2150,
+    "prixEUR": 529,
+    "prixUSD": 549,
+    "scorePerformance": 89,
+    "consommationW": 263,
+    "boutiquesTN": "SBS Informatique, MegaPC",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=700&q=80",
+    "resume": "Un monstre en 1440p (2K) doté de 16 Go de mémoire vidéo pour tenir plusieurs années sur les jeux AAA.",
+    "specifications": [
+      "Mémoire vidéo : 16 Go GDDR6 (Bus 256-bit)",
+      "Architecture : AMD RDNA 3",
+      "Consommation : 263 Watts",
+      "Performances : 100+ FPS en 1440p Ultra"
+    ],
+    "pointsForts": [
+      "16 Go de VRAM pour les textures Ultra et les jeux futurs",
+      "Surpasse souvent la RTX 4070 en rastérisation pure",
+      "Rapport performance/prix redoutable en 2K"
+    ],
+    "conseilMarcheTN": "Privilégiez les versions Sapphire Pulse ou Nitro+ chez les revendeurs spécialisés."
+  },
+  {
+    "id": "gpu-rtx-4070-super",
+    "nom": "NVIDIA GeForce RTX 4070 SUPER 12 Go",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Haut de gamme",
+    "prixTND": 2690,
+    "prixEUR": 639,
+    "prixUSD": 649,
+    "scorePerformance": 94,
+    "consommationW": 220,
+    "boutiquesTN": "MyTek, MegaPC, Scoop Gaming",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=700&q=80",
+    "resume": "L'équilibre parfait entre gaming 1440p/4K avec Ray Tracing, création 3D et entraînement de modèles IA.",
+    "specifications": [
+      "Mémoire vidéo : 12 Go GDDR6X ultra-rapide",
+      "Cœurs CUDA : 7168",
+      "Consommation : 220 Watts (Connecteur 12VHPWR)",
+      "DLSS 3.5 avec Ray Reconstruction"
+    ],
+    "pointsForts": [
+      "Performances en Ray Tracing et IA exceptionnelles",
+      "20% plus rapide que la RTX 4070 originale",
+      "Consommation maîtrisée de 220W"
+    ],
+    "conseilMarcheTN": "Un investissement haut de gamme très prisé par les développeurs IA et gamers en Tunisie."
+  },
+  {
+    "id": "gpu-rtx-4080-super",
+    "nom": "NVIDIA GeForce RTX 4080 SUPER 16 Go",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Haut de gamme",
+    "prixTND": 4490,
+    "prixEUR": 1079,
+    "prixUSD": 1049,
+    "scorePerformance": 98,
+    "consommationW": 320,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte graphique 4K Ultra sans compromis pour le Ray Tracing extrême et les stations de travail IA.",
+    "specifications": [
+      "Mémoire vidéo : 16 Go GDDR6X (23 Gbps)",
+      "Cœurs CUDA : 10240",
+      "Consommation : 320 Watts (Alimentation 850W requise)",
+      "Sorties : 3x DisplayPort 1.4a, 1x HDMI 2.1a"
+    ],
+    "pointsForts": [
+      "Fluidité 4K Ultra sur Cyberpunk 2077 et Black Myth: Wukong",
+      "Puissance de calcul colossale en rendu 3D et IA",
+      "Refroidissement triple ventilateur silencieux"
+    ],
+    "conseilMarcheTN": "Vérifiez la longueur de votre boîtier (minimum 330 mm disponibles)."
+  },
+  {
+    "id": "gpu-rtx-4090-24gb",
+    "nom": "NVIDIA GeForce RTX 4090 24 Go GDDR6X",
+    "categorie": "Carte Graphique",
+    "marque": "NVIDIA",
+    "gamme": "Haut de gamme",
+    "prixTND": 7690,
+    "prixEUR": 1899,
+    "prixUSD": 1849,
+    "scorePerformance": 100,
+    "consommationW": 450,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "gpu",
+    "photoUrl": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=700&q=80",
+    "resume": "La carte graphique grand public la plus puissante au monde avec 24 Go de VRAM pour la 4K 144Hz et le Deep Learning.",
+    "specifications": [
+      "Mémoire vidéo : 24 Go GDDR6X (Bus 384-bit)",
+      "Cœurs CUDA : 16384",
+      "Consommation : 450 Watts (Alimentation 850W à 1000W requise)",
+      "Architecture : Ada Lovelace complète"
+    ],
+    "pointsForts": [
+      "24 Go de mémoire permettant d'entraîner des modèles LLM complexes localement",
+      "Fait tourner les 50 jeux du catalogue en 4K Ultra à plus de 100 FPS",
+      "Performances sans équivalent en rendu Blender / Unreal Engine 5"
+    ],
+    "conseilMarcheTN": "Destinée aux studios 3D, laboratoires IA et passionnés sans limite de budget."
+  },
+
+  {
+    "id": "mb-asus-prime-h610m",
+    "nom": "ASUS PRIME H610M-K D4 (Intel LGA1700 / DDR4)",
+    "categorie": "Carte Mère",
+    "marque": "ASUS",
+    "gamme": "Entrée de gamme",
+    "prixTND": 285,
+    "prixEUR": 74,
+    "prixUSD": 79,
+    "scorePerformance": 58,
+    "consommationW": 25,
+    "boutiquesTN": "Tunisianet, MyTek, Wiki",
+    "image": "motherboard",
+    "photoUrl": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte mère économique et fiable pour accompagner un Core i3-12100F ou Core i5-12400F.",
+    "specifications": [
+      "Socket : Intel LGA1700 (12e / 13e / 14e Gén)",
+      "Mémoire : 2x slots DDR4 jusqu'à 64 Go (3200 MHz)",
+      "Stockage : 1x slot M.2 NVMe + 4x SATA 6Gb/s",
+      "Format : Micro-ATX compact"
+    ],
+    "pointsForts": [
+      "Sous la barre des 290 DT en Tunisie",
+      "Slot PCIe 4.0 pour la carte graphique",
+      "BIOS ASUS UEFI très simple à configurer"
+    ],
+    "conseilMarcheTN": "La base idéale pour une configuration étudiante à petit prix."
+  },
+  {
+    "id": "mb-msi-b550m-pro-vdh",
+    "nom": "MSI B550M PRO-VDH WIFI (AM4 / DDR4)",
+    "categorie": "Carte Mère",
+    "marque": "MSI",
+    "gamme": "Entrée de gamme",
+    "prixTND": 420,
+    "prixEUR": 109,
+    "prixUSD": 115,
+    "scorePerformance": 70,
+    "consommationW": 30,
+    "boutiquesTN": "Tunisianet, MyTek, SBS Informatique",
+    "image": "motherboard",
+    "photoUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte mère Micro-ATX ultra fiable avec Wi-Fi intégré, dissipateur M.2 et bouton Flash BIOS.",
+    "specifications": [
+      "Socket : AMD AM4 (Ryzen série 5000)",
+      "Mémoire : 4x slots DDR4 jusqu'à 128 Go",
+      "Stockage : 2x slots M.2 NVMe (PCIe 4.0) + 4x SATA",
+      "Connectivité : Wi-Fi AC + Bluetooth + Gigabit LAN"
+    ],
+    "pointsForts": [
+      "Wi-Fi et Bluetooth intégrés d'origine",
+      "Excellents VRM avec refroidissement métallique",
+      "Bouton Flash BIOS très pratique"
+    ],
+    "conseilMarcheTN": "L'une des cartes mères les plus vendues en Tunisie pour accompagner un Ryzen 5 5600."
+  },
+  {
+    "id": "mb-gigabyte-b760m-ds3h",
+    "nom": "Gigabyte B760M DS3H DDR4 (Intel LGA1700)",
+    "categorie": "Carte Mère",
+    "marque": "Gigabyte",
+    "gamme": "Milieu de gamme",
+    "prixTND": 445,
+    "prixEUR": 112,
+    "prixUSD": 119,
+    "scorePerformance": 75,
+    "consommationW": 32,
+    "boutiquesTN": "MyTek, Tunisianet, SBS Informatique",
+    "image": "motherboard",
+    "photoUrl": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte mère idéale pour les processeurs Intel Core 12e, 13e et 14e génération avec mémoire DDR4 économique.",
+    "specifications": [
+      "Socket : Intel LGA1700 (Core i3 / i5 / i7)",
+      "Mémoire : 4x DDR4 jusqu'à 5333 MHz (OC)",
+      "Stockage : 2x M.2 PCIe 4.0 x4 avec dissipateur thermique",
+      "Réseau : Realtek 2.5 GbE LAN"
+    ],
+    "pointsForts": [
+      "Parfaite pour le Core i5-13400F",
+      "Ethernet 2.5 Gigabit ultra stable",
+      "4 emplacements RAM pour évoluer facilement de 16 à 32 Go"
+    ],
+    "conseilMarcheTN": "Très bon rapport équipement/prix dans les boutiques tunisiennes."
+  },
+  {
+    "id": "mb-msi-b650-gaming-plus",
+    "nom": "MSI B650 GAMING PLUS WIFI (AM5 / DDR5)",
+    "categorie": "Carte Mère",
+    "marque": "MSI",
+    "gamme": "Milieu de gamme",
+    "prixTND": 730,
+    "prixEUR": 179,
+    "prixUSD": 189,
+    "scorePerformance": 86,
+    "consommationW": 38,
+    "boutiquesTN": "MyTek, MegaPC, SBS Informatique",
+    "image": "motherboard",
+    "photoUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte mère ATX moderne avec Wi-Fi 6E et alimentation renforcée 12+2+1 phases pour Ryzen 7000.",
+    "specifications": [
+      "Socket : AMD AM5 (Ryzen 7000 / 8000 / 9000)",
+      "Mémoire : 4x DDR5 jusqu'à 7200+ MHz (OC)",
+      "Stockage : 2x M.2 Gen4 x4 avec Shield Frozr",
+      "Sans-fil : Wi-Fi 6E + Bluetooth 5.3 + LAN 2.5G"
+    ],
+    "pointsForts": [
+      "Supporte le Ryzen 5 7600X comme le Ryzen 7 7800X3D sans chauffer",
+      "Wi-Fi 6E très rapide",
+      "Format ATX spacieux avec excellente connectique USB"
+    ],
+    "conseilMarcheTN": "Le meilleur ticket d'entrée ATX sur la plateforme AM5 en Tunisie."
+  },
+  {
+    "id": "mb-asus-tuf-b650-plus",
+    "nom": "ASUS TUF GAMING B650-PLUS WIFI (AM5 / DDR5)",
+    "categorie": "Carte Mère",
+    "marque": "ASUS",
+    "gamme": "Haut de gamme",
+    "prixTND": 840,
+    "prixEUR": 205,
+    "prixUSD": 219,
+    "scorePerformance": 92,
+    "consommationW": 40,
+    "boutiquesTN": "MyTek, MegaPC, Scoop Gaming",
+    "image": "motherboard",
+    "photoUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte mère ATX évolutive de dernière génération pour processeurs modernes et mémoire DDR5 haute fréquence.",
+    "specifications": [
+      "Socket : AM5 Nouvelle Génération",
+      "Mémoire : 4x DDR5 jusqu'à 7600+ MHz (EXPO / XMP)",
+      "Stockage : 3x slots M.2 NVMe (dont 1 PCIe 5.0)",
+      "Réseau : Wi-Fi 6 + Ethernet Realtek 2.5 Gb"
+    ],
+    "pointsForts": [
+      "Composants robustes de classe militaire TUF",
+      "Supporte le PCIe 5.0 et la DDR5 ultra-rapide",
+      "Connectique USB-C 20 Gbps à l'arrière"
+    ],
+    "conseilMarcheTN": "Idéale pour une configuration durable sur plusieurs années."
+  },
+  {
+    "id": "mb-asus-rog-strix-z790-f",
+    "nom": "ASUS ROG STRIX Z790-F GAMING WIFI II (DDR5)",
+    "categorie": "Carte Mère",
+    "marque": "ASUS",
+    "gamme": "Haut de gamme",
+    "prixTND": 1650,
+    "prixEUR": 419,
+    "prixUSD": 429,
+    "scorePerformance": 98,
+    "consommationW": 45,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "motherboard",
+    "photoUrl": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=700&q=80",
+    "resume": "Carte mère très haut de gamme équipée du Wi-Fi 7, de 5 slots M.2 et d'un étage d'alimentation 16+1 phases.",
+    "specifications": [
+      "Socket : Intel LGA1700 (Z790 Overclocking)",
+      "Mémoire : 4x DDR5 jusqu'à 8000+ MHz",
+      "Stockage : 5x slots M.2 NVMe avec dissipateurs massifs",
+      "Connectivité : Wi-Fi 7 + Thunderbolt / USB4 + LAN 2.5G"
+    ],
+    "pointsForts": [
+      "Conçue pour exploiter à 100% les Core i7-14700K et Core i9",
+      "5 emplacements SSD M.2 sans aucun câble",
+      "Bouton Q-Release pour retirer la carte graphique en un clic"
+    ],
+    "conseilMarcheTN": "La référence pour les configurations Intel vitrines et stations de travail."
+  },
+
+  {
+    "id": "ram-crucial-8gb-ddr4",
+    "nom": "Crucial 8 Go DDR4 3200 MHz CL22",
+    "categorie": "Mémoire RAM",
+    "marque": "Crucial",
+    "gamme": "Entrée de gamme",
+    "prixTND": 79,
+    "prixEUR": 21,
+    "prixUSD": 23,
+    "scorePerformance": 50,
+    "consommationW": 5,
+    "boutiquesTN": "Tunisianet, MyTek, Wiki",
+    "image": "ram",
+    "photoUrl": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=700&q=80",
+    "resume": "Barrette de 8 Go économique pour démarrer un PC bureautique/étudiant avec possibilité d'en ajouter une seconde plus tard.",
+    "specifications": [
+      "Capacité : 8 Go (1 x 8 Go DDR4)",
+      "Fréquence : 3200 MHz",
+      "Tension : 1.2V basse consommation",
+      "Compatibilité : Intel et AMD DDR4"
+    ],
+    "pointsForts": [
+      "Moins de 80 DT en Tunisie",
+      "Suffisant pour la bureautique, le web et les jeux eSport légers",
+      "Facile à doubler à 16 Go par la suite"
+    ],
+    "conseilMarcheTN": "Idéale si votre budget initial est très limité."
+  },
+  {
+    "id": "ram-corsair-16gb-ddr4",
+    "nom": "Corsair Vengeance LPX 16 Go (2x8 Go) DDR4 3200 MHz",
+    "categorie": "Mémoire RAM",
+    "marque": "Corsair",
+    "gamme": "Entrée de gamme",
+    "prixTND": 175,
+    "prixEUR": 44,
+    "prixUSD": 48,
+    "scorePerformance": 72,
+    "consommationW": 10,
+    "boutiquesTN": "Tunisianet, MyTek, SBS, Wiki",
+    "image": "ram",
+    "photoUrl": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=700&q=80",
+    "resume": "Le kit Dual-Channel 16 Go indispensable et abordable pour le gaming et le développement web.",
+    "specifications": [
+      "Capacité : 16 Go (2 barrettes de 8 Go en Dual-Channel)",
+      "Fréquence : 3200 MHz (PC4-25600)",
+      "Latence : CL16 (Profil XMP 2.0)",
+      "Dissipateur : Aluminium profil bas (Low Profile)"
+    ],
+    "pointsForts": [
+      "Prix très doux en Tunisie (moins de 180 DT)",
+      "Format compact qui passe sous tous les ventirads",
+      "Fiabilité légendaire Corsair"
+    ],
+    "conseilMarcheTN": "Toujours prendre 2x8 Go plutôt qu'une seule barrette de 16 Go pour activer le Dual-Channel."
+  },
+  {
+    "id": "ram-gskill-32gb-ddr4",
+    "nom": "G.Skill Ripjaws V 32 Go (2x16 Go) DDR4 3600 MHz",
+    "categorie": "Mémoire RAM",
+    "marque": "G.Skill",
+    "gamme": "Milieu de gamme",
+    "prixTND": 310,
+    "prixEUR": 76,
+    "prixUSD": 82,
+    "scorePerformance": 84,
+    "consommationW": 12,
+    "boutiquesTN": "MyTek, SBS Informatique, MegaPC",
+    "image": "ram",
+    "photoUrl": "https://images.unsplash.com/photo-1541029071515-84cc54f84dc5?auto=format&fit=crop&w=700&q=80",
+    "resume": "32 Go de DDR4 rapide à 3600 MHz pour prolonger la durée de vie d'une configuration AM4 ou LGA1700.",
+    "specifications": [
+      "Capacité : 32 Go (2 x 16 Go Dual-Channel)",
+      "Fréquence : 3600 MHz CL18",
+      "Tension : 1.35V (Intel XMP 2.0)",
+      "Dissipateur thermique en aluminium noir"
+    ],
+    "pointsForts": [
+      "Permet d'ouvrir Android Studio, Docker et un jeu simultanément",
+      "Fréquence 3600 MHz optimale pour les processeurs Ryzen 5000",
+      "Tarif très accessible pour 32 Go"
+    ],
+    "conseilMarcheTN": "Excellent choix pour les étudiants en génie logiciel et multimédia."
+  },
+  {
+    "id": "ram-crucial-16gb-ddr5",
+    "nom": "Crucial Pro 16 Go (2x8 Go) DDR5 5600 MHz",
+    "categorie": "Mémoire RAM",
+    "marque": "Crucial",
+    "gamme": "Milieu de gamme",
+    "prixTND": 265,
+    "prixEUR": 68,
+    "prixUSD": 72,
+    "scorePerformance": 82,
+    "consommationW": 12,
+    "boutiquesTN": "MyTek, Tunisianet, SBS Informatique",
+    "image": "ram",
+    "photoUrl": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=700&q=80",
+    "resume": "Kit DDR5 16 Go moderne avec dissipateur aluminium sobre pour passer à la nouvelle génération sans se ruiner.",
+    "specifications": [
+      "Capacité : 16 Go (2 x 8 Go DDR5)",
+      "Fréquence : 5600 MHz",
+      "Profils : Intel XMP 3.0 et AMD EXPO",
+      "Dissipateur : Aluminium noir mat"
+    ],
+    "pointsForts": [
+      "Bande passante 50% supérieure à la DDR4",
+      "Prix très contenu pour de la mémoire DDR5",
+      "Compatible avec toutes les cartes mères B650 et B760 DDR5"
+    ],
+    "conseilMarcheTN": "Idéal pour accompagner un Ryzen 5 7600X à budget maîtrisé."
+  },
+  {
+    "id": "ram-kingston-32gb-ddr5",
+    "nom": "Kingston FURY Beast RGB 32 Go (2x16 Go) DDR5 6000 MHz",
+    "categorie": "Mémoire RAM",
+    "marque": "Kingston",
+    "gamme": "Haut de gamme",
+    "prixTND": 465,
+    "prixEUR": 119,
+    "prixUSD": 129,
+    "scorePerformance": 95,
+    "consommationW": 15,
+    "boutiquesTN": "MyTek, MegaPC, SBS Informatique",
+    "image": "ram",
+    "photoUrl": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=700&q=80",
+    "resume": "32 Go de DDR5 cadencée à 6000 MHz CL30 pour les jeux AAA lourds, Docker, l'IA et le montage 4K.",
+    "specifications": [
+      "Capacité : 32 Go (2 x 16 Go Dual-Channel)",
+      "Fréquence : 6000 MHz (DDR5)",
+      "Profils : AMD EXPO et Intel XMP 3.0 certifiés",
+      "Éclairage : Barre LED RGB synchronisable"
+    ],
+    "pointsForts": [
+      "32 Go offre une tranquillité totale pour les années à venir",
+      "Fréquence 6000 MHz optimale pour les CPU récents",
+      "Excellent tarif en Tunisie face à la concurrence"
+    ],
+    "conseilMarcheTN": "La marque Kingston est très bien distribuée officiellement en Tunisie."
+  },
+  {
+    "id": "ram-corsair-64gb-ddr5",
+    "nom": "Corsair Dominator Titanium 64 Go (2x32 Go) DDR5 6400 MHz",
+    "categorie": "Mémoire RAM",
+    "marque": "Corsair",
+    "gamme": "Haut de gamme",
+    "prixTND": 980,
+    "prixEUR": 249,
+    "prixUSD": 259,
+    "scorePerformance": 100,
+    "consommationW": 18,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "ram",
+    "photoUrl": "https://images.unsplash.com/photo-1541029071515-84cc54f84dc5?auto=format&fit=crop&w=700&q=80",
+    "resume": "64 Go de mémoire DDR5 ultra-rapide pour l'entraînement de modèles IA, les machines virtuelles et la 3D lourde.",
+    "specifications": [
+      "Capacité : 64 Go (2 x 32 Go Dual-Channel)",
+      "Fréquence : 6400 MHz CL32",
+      "Refroidissement : Technologie brevetée Corsair DHX",
+      "Finition : Aluminium forgé de précision"
+    ],
+    "pointsForts": [
+      "Capacité géante de 64 Go impossible à saturer en jeu",
+      "Puces mémoire triées sur le volet pour une stabilité parfaite",
+      "Idéale pour After Effects 4K, Blender et les LLM locaux"
+    ],
+    "conseilMarcheTN": "Le choix des stations de travail et développeurs IA en Tunisie."
+  },
+
+  {
+    "id": "ssd-kingston-nv2-500gb",
+    "nom": "Kingston NV2 500 Go SSD NVMe PCIe 4.0",
+    "categorie": "Stockage SSD",
+    "marque": "Kingston",
+    "gamme": "Entrée de gamme",
+    "prixTND": 139,
+    "prixEUR": 37,
+    "prixUSD": 39,
+    "scorePerformance": 68,
+    "consommationW": 5,
+    "boutiquesTN": "Tunisianet, MyTek, SBS, Wiki",
+    "image": "ssd",
+    "photoUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=700&q=80",
+    "resume": "Le SSD NVMe M.2 le moins cher de Tunisie pour accélérer le démarrage de Windows et des logiciels.",
+    "specifications": [
+      "Capacité : 500 Go (Format M.2 2280)",
+      "Interface : PCIe 4.0 x4 NVMe",
+      "Vitesse de lecture : jusqu'à 3500 Mo/s",
+      "Consommation : 5 Watts"
+    ],
+    "pointsForts": [
+      "Seulement 139 DT en Tunisie",
+      "7 fois plus rapide qu'un disque SATA classique",
+      "S'installe directement sur la carte mère sans câble"
+    ],
+    "conseilMarcheTN": "Le best-seller absolu des petits budgets en Tunisie."
+  },
+  {
+    "id": "ssd-wd-sn580-500gb",
+    "nom": "WD Blue SN580 500 Go SSD NVMe PCIe 4.0",
+    "categorie": "Stockage SSD",
+    "marque": "Western Digital",
+    "gamme": "Entrée de gamme",
+    "prixTND": 159,
+    "prixEUR": 42,
+    "prixUSD": 45,
+    "scorePerformance": 73,
+    "consommationW": 6,
+    "boutiquesTN": "Tunisianet, MyTek, Wiki",
+    "image": "ssd",
+    "photoUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=700&q=80",
+    "resume": "SSD NVMe Gen4 fiable et économique pour un démarrage système ultra-rapide à moins de 160 DT.",
+    "specifications": [
+      "Capacité : 500 Go (Format M.2 2280)",
+      "Interface : PCIe Gen 4 x4 NVMe",
+      "Lecture séquentielle : jusqu'à 4000 Mo/s",
+      "Garantie constructeur : 5 ans"
+    ],
+    "pointsForts": [
+      "Endurance TLC supérieure aux disques QLC d'entrée de gamme",
+      "Chauffe très peu",
+      "Idéal pour le système Windows / Linux et les outils de code"
+    ],
+    "conseilMarcheTN": "Parfait pour les budgets serrés, peut être complété plus tard par un second SSD."
+  },
+  {
+    "id": "ssd-crucial-p3-plus-1tb",
+    "nom": "Crucial P3 Plus 1 To SSD NVMe PCIe 4.0 M.2",
+    "categorie": "Stockage SSD",
+    "marque": "Crucial",
+    "gamme": "Milieu de gamme",
+    "prixTND": 249,
+    "prixEUR": 65,
+    "prixUSD": 69,
+    "scorePerformance": 82,
+    "consommationW": 8,
+    "boutiquesTN": "Tunisianet, MyTek, SBS Informatique",
+    "image": "ssd",
+    "photoUrl": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?auto=format&fit=crop&w=700&q=80",
+    "resume": "1000 Go de stockage NVMe Gen4 ultra rapide (5000 Mo/s) pour démarrer Windows en 6 secondes.",
+    "specifications": [
+      "Capacité : 1 To (1000 Go)",
+      "Interface : M.2 NVMe PCIe Gen 4 x4",
+      "Vitesse de lecture : jusqu'à 5000 Mo/s",
+      "Vitesse d'écriture : jusqu'à 3600 Mo/s"
+    ],
+    "pointsForts": [
+      "10 fois plus rapide qu'un SSD SATA classique",
+      "1 To permet d'installer Windows, vos IDE et 10 grands jeux",
+      "Très faible écart de prix entre la Tunisie et l'Europe"
+    ],
+    "conseilMarcheTN": "Le meilleur compromis capacité/vitesse du marché tunisien autour de 250 DT."
+  },
+  {
+    "id": "ssd-lexar-nm790-1tb",
+    "nom": "Lexar NM790 1 To NVMe PCIe 4.0 (7400 Mo/s)",
+    "categorie": "Stockage SSD",
+    "marque": "Lexar",
+    "gamme": "Milieu de gamme",
+    "prixTND": 325,
+    "prixEUR": 84,
+    "prixUSD": 89,
+    "scorePerformance": 91,
+    "consommationW": 8,
+    "boutiquesTN": "MyTek, MegaPC, SBS Informatique",
+    "image": "ssd",
+    "photoUrl": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?auto=format&fit=crop&w=700&q=80",
+    "resume": "Des vitesses haut de gamme de 7400 Mo/s à un tarif milieu de gamme pour charger les jeux Unreal Engine 5 instantanément.",
+    "specifications": [
+      "Capacité : 1 To (1000 Go)",
+      "Lecture séquentielle : 7400 Mo/s",
+      "Écriture séquentielle : 6500 Mo/s",
+      "Compatible PC et PlayStation 5"
+    ],
+    "pointsForts": [
+      "Aussi rapide qu'un Samsung 990 PRO pour beaucoup moins cher",
+      "Efficacité énergétique remarquable",
+      "Temps de chargement quasi nuls dans les jeux en monde ouvert"
+    ],
+    "conseilMarcheTN": "Une pépite très appréciée des gamers avertis en Tunisie."
+  },
+  {
+    "id": "ssd-samsung-990-pro-2tb",
+    "nom": "Samsung 990 PRO 2 To NVMe PCIe 4.0",
+    "categorie": "Stockage SSD",
+    "marque": "Samsung",
+    "gamme": "Haut de gamme",
+    "prixTND": 670,
+    "prixEUR": 169,
+    "prixUSD": 179,
+    "scorePerformance": 98,
+    "consommationW": 10,
+    "boutiquesTN": "MyTek, MegaPC, Scoop Gaming",
+    "image": "ssd",
+    "photoUrl": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=700&q=80",
+    "resume": "Le SSD PCIe 4.0 le plus rapide du marché (7450 Mo/s) avec mémoire cache DRAM dédiée pour les professionnels.",
+    "specifications": [
+      "Capacité : 2 To (2000 Go)",
+      "Vitesse de lecture : 7450 Mo/s",
+      "Vitesse d'écriture : 6900 Mo/s",
+      "Cache DRAM : 2 Go LPDDR4 intégrés"
+    ],
+    "pointsForts": [
+      "Vitesses saturant la norme PCIe 4.0",
+      "Endurance et fiabilité exceptionnelles",
+      "Parfait pour les bases de données lourdes et projets vidéo"
+    ],
+    "conseilMarcheTN": "Idéal comme disque principal sur une station de travail haut de gamme."
+  },
+  {
+    "id": "ssd-wd-black-sn850x-2tb",
+    "nom": "WD_BLACK SN850X 2 To NVMe PCIe 4.0 (Game Mode 2.0)",
+    "categorie": "Stockage SSD",
+    "marque": "Western Digital",
+    "gamme": "Haut de gamme",
+    "prixTND": 650,
+    "prixEUR": 164,
+    "prixUSD": 174,
+    "scorePerformance": 97,
+    "consommationW": 10,
+    "boutiquesTN": "MegaPC, MyTek, Scoop Gaming",
+    "image": "ssd",
+    "photoUrl": "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?auto=format&fit=crop&w=700&q=80",
+    "resume": "2000 Go ultra performants conçus spécialement pour le gaming DirectStorage et la création 4K.",
+    "specifications": [
+      "Capacité : 2 To (2000 Go)",
+      "Vitesse de lecture : 7300 Mo/s",
+      "Vitesse d'écriture : 6600 Mo/s",
+      "Technologie : Prédiction de chargement Game Mode 2.0"
+    ],
+    "pointsForts": [
+      "Permet de stocker plus de 20 jeux AAA simultanément",
+      "Performances constantes même lorsque le disque est rempli",
+      "Logiciel WD Dashboard très complet"
+    ],
+    "conseilMarcheTN": "Le concurrent direct du Samsung 990 PRO dans les configurations haut de gamme."
+  },
+
+  {
+    "id": "psu-aerocool-lux-550w",
+    "nom": "AeroCool LUX 550W 80+ Bronze",
+    "categorie": "Alimentation",
+    "marque": "AeroCool",
+    "gamme": "Entrée de gamme",
+    "prixTND": 155,
+    "prixEUR": 42,
+    "prixUSD": 45,
+    "scorePerformance": 64,
+    "consommationW": 0,
+    "puissanceFournieW": 550,
+    "boutiquesTN": "Tunisianet, MyTek, SBS Informatique",
+    "image": "psu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=700&q=80",
+    "resume": "Alimentation 550W certifiée 80+ Bronze abordable pour les configurations d'entrée de gamme (GTX 1650 / RX 6600).",
+    "specifications": [
+      "Puissance délivrée : 550 Watts",
+      "Certification : 80 PLUS Bronze (Rendement 88%)",
+      "Ventilateur : 120 mm silencieux",
+      "Câbles : Plats noirs faciles à ranger"
+    ],
+    "pointsForts": [
+      "Moins de 160 DT pour une alimentation certifiée 80+ Bronze",
+      "Suffisante pour un Core i3 / Ryzen 5 avec une carte graphique économe",
+      "Ventilation discrète"
+    ],
+    "conseilMarcheTN": "Adaptée aux configurations dont la consommation totale reste sous 350W."
+  },
+  {
+    "id": "psu-msi-mag-a650bn",
+    "nom": "MSI MAG A650BN 650W 80+ Bronze",
+    "categorie": "Alimentation",
+    "marque": "MSI",
+    "gamme": "Milieu de gamme",
+    "prixTND": 215,
+    "prixEUR": 59,
+    "prixUSD": 65,
+    "scorePerformance": 78,
+    "consommationW": 0,
+    "puissanceFournieW": 650,
+    "boutiquesTN": "Tunisianet, MyTek, SBS Informatique, MegaPC",
+    "image": "psu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=700&q=80",
+    "resume": "Alimentation 650 Watts certifiée 80+ Bronze fiable et sécurisée, idéale pour les configurations RTX 4060 ou RX 6600.",
+    "specifications": [
+      "Puissance délivrée : 650 Watts continus",
+      "Certification : 80 PLUS Bronze (Rendement > 85%)",
+      "Protections électriques : OCP, OVP, SCP, OPP, OTP",
+      "Ventilateur : 120 mm silencieux à faible bruit"
+    ],
+    "pointsForts": [
+      "Protège efficacement le PC contre les variations de tension",
+      "Câbles gainés noirs esthétiques",
+      "Tarif très compétitif en Tunisie (~215 DT)"
+    ],
+    "conseilMarcheTN": "La référence sécurité à petit prix en Tunisie."
+  },
+  {
+    "id": "psu-gigabyte-p750gm",
+    "nom": "Gigabyte UD750GM 750W 80+ Gold (100% Modulaire)",
+    "categorie": "Alimentation",
+    "marque": "Gigabyte",
+    "gamme": "Milieu de gamme",
+    "prixTND": 375,
+    "prixEUR": 95,
+    "prixUSD": 99,
+    "scorePerformance": 86,
+    "consommationW": 0,
+    "puissanceFournieW": 750,
+    "boutiquesTN": "MyTek, MegaPC, SBS Informatique",
+    "image": "psu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=700&q=80",
+    "resume": "750 Watts certifiés 80+ Gold et entièrement modulaires pour alimenter sereinement une RTX 4070 ou RX 7800 XT.",
+    "specifications": [
+      "Puissance délivrée : 750 Watts",
+      "Certification : 80 PLUS Gold (Rendement 90%)",
+      "Conception : Ultra Durable avec condensateurs japonais",
+      "Câblage : 100% Modulaire"
+    ],
+    "pointsForts": [
+      "Certification Gold réduisant la facture d'électricité et la chaleur",
+      "100% modulaire pour un boîtier propre",
+      "Marge confortable de 750W"
+    ],
+    "conseilMarcheTN": "Excellent choix intermédiaire entre 650W et 850W."
+  },
+  {
+    "id": "psu-corsair-rm850e",
+    "nom": "Corsair RM850e 850W 80+ Gold ATX 3.0 (Modulaire)",
+    "categorie": "Alimentation",
+    "marque": "Corsair",
+    "gamme": "Haut de gamme",
+    "prixTND": 520,
+    "prixEUR": 129,
+    "prixUSD": 139,
+    "scorePerformance": 95,
+    "consommationW": 0,
+    "puissanceFournieW": 850,
+    "boutiquesTN": "MegaPC, MyTek, Scoop Gaming",
+    "image": "psu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=700&q=80",
+    "resume": "Alimentation 850W 100% modulaire certifiée 80+ Gold et ATX 3.0 pour les cartes graphiques haut de gamme.",
+    "specifications": [
+      "Puissance délivrée : 850 Watts",
+      "Certification : 80 PLUS Gold (Rendement > 90%)",
+      "Norme : ATX 3.0 & PCIe 5.0 (câble 12VHPWR inclus)",
+      "Mode Zero RPM : Ventilateur à l'arrêt à faible charge"
+    ],
+    "pointsForts": [
+      "100% modulaire : branchez uniquement les câbles utiles",
+      "Ultra silencieuse avec condensateurs certifiés 105°C",
+      "Prête pour les RTX 4070 Super / 4080 Super"
+    ],
+    "conseilMarcheTN": "Indispensable pour toute configuration dépassant 450W de consommation réelle."
+  },
+  {
+    "id": "psu-asus-rog-thor-1000w",
+    "nom": "MSI MEG Ai1000P PCIE5 1000W 80+ Platinum",
+    "categorie": "Alimentation",
+    "marque": "MSI",
+    "gamme": "Haut de gamme",
+    "prixTND": 890,
+    "prixEUR": 229,
+    "prixUSD": 239,
+    "scorePerformance": 100,
+    "consommationW": 0,
+    "puissanceFournieW": 1000,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "psu",
+    "photoUrl": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=700&q=80",
+    "resume": "Bloc d'alimentation 1000 Watts certifié 80+ Platinum pour la RTX 4090 et les stations multi-GPU.",
+    "specifications": [
+      "Puissance délivrée : 1000 Watts continus",
+      "Certification : 80 PLUS Platinum (Rendement > 92%)",
+      "Connecteur : 12VHPWR 600W natif PCIe 5.0",
+      "Suivi logiciel : Monitoring temps réel de la consommation"
+    ],
+    "pointsForts": [
+      "1000W offrant une sécurité absolue pour une RTX 4090 + Ryzen 9 / Core i9",
+      "Rendement Platinum ultra froid et silencieux",
+      "Garantie constructeur 10 ans"
+    ],
+    "conseilMarcheTN": "L'alimentation de référence pour les configurations extrêmes en Tunisie."
+  },
+
+  {
+    "id": "case-aerocool-cs107",
+    "nom": "AeroCool CS-107 V2 (Mini Tour Mesh + 3 Ventilateurs)",
+    "categorie": "Boîtier",
+    "marque": "AeroCool",
+    "gamme": "Entrée de gamme",
+    "prixTND": 149,
+    "prixEUR": 39,
+    "prixUSD": 42,
+    "scorePerformance": 68,
+    "consommationW": 8,
+    "boutiquesTN": "Tunisianet, MyTek, SBS Informatique",
+    "image": "case",
+    "photoUrl": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=700&q=80",
+    "resume": "Boîtier compact et économique livré avec 3 ventilateurs LED et une façade grillagée pour un bon refroidissement.",
+    "specifications": [
+      "Format : Mini Tour (Cartes mères Micro-ATX / Mini-ITX)",
+      "Ventilation incluse : 2x 120mm avant + 1x 120mm arrière",
+      "Façade : Mesh intégral pour le flux d'air",
+      "Longueur GPU max : 286 mm"
+    ],
+    "pointsForts": [
+      "Seulement 149 DT avec 3 ventilateurs déjà installés",
+      "Prend très peu de place sur un bureau d'étudiant",
+      "Bon flux d'air grâce à la grille avant"
+    ],
+    "conseilMarcheTN": "Idéal pour les cartes mères Micro-ATX (H610M, B550M, B760M)."
+  },
+  {
+    "id": "case-msi-mag-forge-100r",
+    "nom": "MSI MAG FORGE 100R (Façade Mesh + 3 Ventilateurs)",
+    "categorie": "Boîtier",
+    "marque": "MSI",
+    "gamme": "Milieu de gamme",
+    "prixTND": 235,
+    "prixEUR": 64,
+    "prixUSD": 69,
+    "scorePerformance": 82,
+    "consommationW": 12,
+    "boutiquesTN": "Tunisianet, MyTek, SBS, MegaPC",
+    "image": "case",
+    "photoUrl": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=700&q=80",
+    "resume": "Boîtier Moyen Tour avec panneau en verre trempé et façade grillagée (Mesh) essentielle pour refroidir le PC en été.",
+    "specifications": [
+      "Format : Moyen Tour (ATX, Micro-ATX, Mini-ITX)",
+      "Refroidissement inclus : 2x ventilateurs 120mm ARGB avant + 1x arrière",
+      "Panneau latéral : Verre trempé 4 mm",
+      "Connectique façade : 2x USB 3.2 Gen1, Audio HD"
+    ],
+    "pointsForts": [
+      "Flux d'air (Airflow) optimal pour les fortes chaleurs d'été",
+      "3 ventilateurs inclus d'origine",
+      "Montage des câbles très propre et rapide"
+    ],
+    "conseilMarcheTN": "Avec les températures estivales en Tunisie, choisissez toujours un boîtier à façade Mesh."
+  },
+  {
+    "id": "case-corsair-4000d-airflow",
+    "nom": "Corsair 4000D AIRFLOW Tempered Glass (Noir)",
+    "categorie": "Boîtier",
+    "marque": "Corsair",
+    "gamme": "Milieu de gamme",
+    "prixTND": 365,
+    "prixEUR": 94,
+    "prixUSD": 99,
+    "scorePerformance": 90,
+    "consommationW": 10,
+    "boutiquesTN": "MyTek, MegaPC, Scoop Gaming",
+    "image": "case",
+    "photoUrl": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=700&q=80",
+    "resume": "La référence mondiale du boîtier sobre, élégant et ultra-ventilé avec gestion des câbles RapidRoute.",
+    "specifications": [
+      "Format : Moyen Tour ATX haut de gamme",
+      "Système de câblage : Corsair RapidRoute (25 mm d'espace)",
+      "Ventilation : 2x ventilateurs Corsair AirGuide inclus",
+      "Filtres à poussière : Avant, haut et alimentation amovibles"
+    ],
+    "pointsForts": [
+      "Qualité d'acier et finitions irréprochables",
+      "Filtres anti-poussière très faciles à nettoyer",
+      "Accepte les grandes cartes graphiques jusqu'à 360 mm"
+    ],
+    "conseilMarcheTN": "Le boîtier préféré des développeurs et gamers qui aiment un design sobre et pro."
+  },
+  {
+    "id": "case-nzxt-h6-flow",
+    "nom": "NZXT H6 Flow Panoramic Glass (Double Chambre)",
+    "categorie": "Boîtier",
+    "marque": "NZXT",
+    "gamme": "Haut de gamme",
+    "prixTND": 485,
+    "prixEUR": 119,
+    "prixUSD": 115,
+    "scorePerformance": 95,
+    "consommationW": 15,
+    "boutiquesTN": "MegaPC, Scoop Gaming, MyTek",
+    "image": "case",
+    "photoUrl": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=700&q=80",
+    "resume": "Boîtier panoramique moderne à double chambre offrant une vue intégrale sur vos composants et un flux d'air angulaire.",
+    "specifications": [
+      "Architecture : Double chambre (alimentation cachée)",
+      "Ventilation : 3x ventilateurs 120mm F120Q préinstallés",
+      "Compatibilité GPU : Cartes graphiques jusqu'à 365 mm",
+      "Compatibilité Watercooling : Radiateur 360 mm en haut"
+    ],
+    "pointsForts": [
+      "Esthétique vitrée panoramique ultra moderne",
+      "Gestion des câbles extrêmement simple grâce à la double chambre",
+      "Flux d'air dirigé directement sur la carte graphique"
+    ],
+    "conseilMarcheTN": "Le boîtier préféré des configurations vitrines haut de gamme."
+  },
+  {
+    "id": "case-lian-li-o11-dynamic-evo",
+    "nom": "Lian Li O11 Dynamic EVO (Aluminium & Verre Panoramique)",
+    "categorie": "Boîtier",
+    "marque": "Lian Li",
+    "gamme": "Haut de gamme",
+    "prixTND": 690,
+    "prixEUR": 169,
+    "prixUSD": 169,
+    "scorePerformance": 99,
+    "consommationW": 15,
+    "boutiquesTN": "MegaPC, Scoop Gaming",
+    "image": "case",
+    "photoUrl": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=700&q=80",
+    "resume": "Boîtier modulaire d'exception en aluminium brossé et double verre trempé, conçu pour accueillir les RTX 4080/4090.",
+    "specifications": [
+      "Format : Grand Moyen Tour (E-ATX / ATX / Micro-ATX)",
+      "Modularité : Châssis réversible (droite ou gauche)",
+      "Refroidissement : Jusqu'à 10 ventilateurs 120mm ou 3 radiateurs 360mm",
+      "Longueur GPU max : 426 mm (supporte toutes les RTX 4090)"
+    ],
+    "pointsForts": [
+      "Espace intérieur royal pour les plus grosses cartes graphiques du monde",
+      "Construction en aluminium et verre sans pilier d'angle",
+      "Refroidissement extrême pour l'été"
+    ],
+    "conseilMarcheTN": "L'écrin ultime pour une configuration Ryzen 7800X3D / 7950X3D et RTX 4080 / 4090."
+  }
+]
